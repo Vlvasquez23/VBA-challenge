@@ -5,7 +5,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ## Stock market analyst
 
-![stock Market](Images/stockmarket.jpg)
+![stock Market](Screenshots/stockmarket.jpg)
 
 ## Instructions
 
@@ -29,7 +29,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 The result should look as follows.
 
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](Screenshot/moderate_solution.png)
 
 
 ## BONUS
