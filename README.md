@@ -5,7 +5,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ## Stock market analyst
 
-![stock Market](Screenshots/stockmarket.jpg)
+![stock Market](Screenshots/stockmarket.png)
 
 ## Instructions
 
